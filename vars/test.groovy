@@ -1,4 +1,4 @@
 def call(x){
   
-  echo "Hey !! ${name} , Welcome to CWA"  
+  echo "${x} , Welcome to CWA"  
 }
